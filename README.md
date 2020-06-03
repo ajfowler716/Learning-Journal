@@ -1,10 +1,6 @@
 # Learning-Journal
 ## 102 Learning-Journal
 
-**Hi, my name is Amy. **
-
-
-
 ### Table of Contents
 - Growth mindset
 - [Mark Down examples from class one - DeltaV102](/MarkDownExamples.md)
